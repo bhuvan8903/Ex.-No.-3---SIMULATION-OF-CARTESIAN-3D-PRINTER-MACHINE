@@ -58,11 +58,7 @@
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
-## Output:
-![output 1](image.png)
-![output 2](image-1.png)
-![output 3](image-2.png)
-![output 4](image-3.png)
+
 ### Name: Bhuvaneshwaran H
 ### Register Number:212223240018
 
